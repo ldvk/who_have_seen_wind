@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(){
-	int i = 1, k = 2;
+	int i = 1, k = 2; // variable declaration
 	printf("Hello world! %d, %d", i, k);
 	return 0;
 }
